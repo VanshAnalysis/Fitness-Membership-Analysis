@@ -19,4 +19,3 @@ Key Objectives:
 •	Excel/CSV (data source)
 📈 Impact
 Helps fitness centers boost revenue, improve retention, and optimize resources through data-driven decision-making.
-
