@@ -24,6 +24,5 @@ Key Objectives:
 📈 Impact
 Helps fitness centers boost revenue, improve retention, and optimize resources through data-driven decision-making.
 
-LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7365365053300076544/?originTrackingId=8DrPLeRTR0GEwtq7O2N%2Fmw%3D%3D
 
 
